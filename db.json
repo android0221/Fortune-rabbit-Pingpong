@@ -1,0 +1,27 @@
+{
+  "data":{
+  "url": "google.com",
+  "clock": 40,
+  "nation": "asffff",
+  "data4": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "data5": {
+    "key1": "asss",
+    "key2": "dddddd"
+  },
+  "data6": null,
+  "data7": {
+    "nested_key": {
+      "nested_value": "Nested data"
+    }
+  },
+  "data8": 3.1415926,
+  "data9": [],
+  "data10": {}
+}
+}
